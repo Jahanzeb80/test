@@ -1,0 +1,11 @@
+Step 1: Install Pydroid 3 - IDE for Python 3 from the Google Play Store.
+
+Step 2: Open Pydroid 3 and go to the "Pip" menu.
+
+Step 3: Install your requirements by typing kivy and plyer and clicking install.
+
+Step 4: Copy your ima.py code and your alarm.mp3 file onto your phone's internal storage.
+
+Step 5: Open ima.py in Pydroid 3 and press the Play button.
+
+Result: Your app will launch and function exactly like a native Android app, using your phone's battery and notification systems.
